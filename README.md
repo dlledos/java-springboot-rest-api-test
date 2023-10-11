@@ -12,8 +12,8 @@ Le but de cet exercice est de tester les capacités du candidat à réaliser une
 
 ### Avant de se lancer 
 * Il est important que l'API REST soit maintenable et exempte de faille de sécurité.
-* Le but n'est pas de terminer l'exercice mais plutôt de voir le chemin pour pour arriver au résultat, et que la qualité de code produit soit le plus satisfaisant possible.
-* Se metter dans une situation de développement réel : il est possible d'utiliser toutes les ressources disponibles (internet, collègues ...), ne pas hésiter à poser des questions.  
+* Le but n'est pas de terminer l'exercice mais plutôt de voir le chemin pour arriver au résultat, et que la qualité de code produit soit la plus satisfaisant possible.
+* Se mettre dans une situation de développement réel : il est possible d'utiliser toutes les ressources disponibles (internet, collègues ...), ne pas hésiter à poser des questions si besoin.
 
 ## Setup
 * Récupérer le repository :
