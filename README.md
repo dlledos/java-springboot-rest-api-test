@@ -14,10 +14,12 @@ Le but de cet exercice est de tester les capacités du candidat à réaliser une
 
 ## Setup
 * Récupérer le repository :
-> git clone https://github.com/dlledos/java-springboot-rest-api-test.git
+> git clone git@github.com:dlledos/java-springboot-rest-api-test.git
 * Faire une branche et démarrer
 
 
 ### Le test 
-Implémenter l'API REST décrite dans le fichier json ci dessous :
-[documentation/petstore.json](petstore.json)
+Implémenter l'API REST dont les spécifications sont décrites dans le fichier json ci dessous :
+[petstore.json](documentation/petstore.json)
+
+> TIPS : possible d'utiliser https://editor.swagger.io/ pour un meilleur affichage de la sécification 
