@@ -183,10 +183,12 @@
       ],
       "properties": {
         "name": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^[A-Za-z ]+$"
         },
         "tag": {
-          "type": "string"
+          "type": "string",
+          "pattern": "^[A-Za-z ]+$"
         }
       }
     },
